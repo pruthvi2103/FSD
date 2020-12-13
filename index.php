@@ -8,7 +8,7 @@
 <body>
     Hello World!
     <?php
-    require('./connect.php'); 
+    require('display.php'); 
     ?>
 </body>
 </html>
