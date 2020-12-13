@@ -7,6 +7,8 @@
 </head>
 <body>
     Hello World!
-    <a href="./connect">Click here to connect</a>
+    <?php
+    require('./connect.php'); 
+    ?>
 </body>
 </html>
