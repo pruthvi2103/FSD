@@ -11,7 +11,9 @@
     <title>Index</title>
 </head>
 <body>
-   
+   <?php 
+   require('./navbar.php')
+   ?>
     <?php
     require('./form.php'); 
     ?>
